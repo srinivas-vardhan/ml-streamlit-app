@@ -56,7 +56,7 @@ This is a **binary classification problem** where the target variable is **Churn
 
 ## c. Models Used & Comparison
 
-We implemented **six machine learning models** to solve this classification problem. Below is the performance comparison.
+Implemented **six machine learning models** to solve this classification problem. Below is the performance comparison.
 
 ### Model Performance Metrics
 
